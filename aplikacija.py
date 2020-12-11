@@ -13,7 +13,7 @@ class Gui(QtWidgets.QWidget):
         self.show()
 
     def initGui(self):
-
+    #komenatar
 
 
 app = QtWidgets.QApplication([])
